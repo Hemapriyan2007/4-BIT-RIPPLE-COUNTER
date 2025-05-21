@@ -50,8 +50,8 @@ end
 endmodule
 ```
 
- Developed by:Monika.A
- RegisterNumber:212224240094
+ Developed by:HEMAPRIYAN.P
+ RegisterNumber:212224040116
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
